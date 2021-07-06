@@ -3,6 +3,7 @@
 ## 功能：
 ### 功能一：坐标转换：百度坐标转换UTM（BD09LL to UTM）
 ```
-converter.bd09_to_wgs84(lng, lat)  # BD09LL 转 wgs84
+
+# 注：bd09转wgs84来源--https://github.com/gaussic/geo_convert
 
 ```
